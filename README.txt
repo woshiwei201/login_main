@@ -2,7 +2,7 @@
 login_main_v1.1.py
 #2016-06-04
 
-一 程序介绍
+程序介绍
   1.1 文件分布
   login_user.jpg   流程图信息
   README.txt
@@ -28,6 +28,11 @@ cat user_config.conf
 chenwei ,chenwei ,N,0 
 chenwei2,chenwei,Y,0
 chenwei3,chenwei,Y,0
+
+
+
+
+
 
 #######end README.txt###############
 
