@@ -1,6 +1,8 @@
 ####by cw#####
-login_main_v1.1.py
-#2016-06-04
+##login_main_v1.1.py
+#2016-06-04#####
+###
+
 
 程序介绍
   1.1 文件分布
@@ -8,6 +10,7 @@ login_main_v1.1.py
   README.txt
   login_main_v1.1.py  主程序
   user_config.conf   配置文件
+
 
 
 程序运行说明：
